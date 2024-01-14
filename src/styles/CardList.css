@@ -1,0 +1,33 @@
+.CardList {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    color: black;
+    background: #E8E8E8;
+    border-radius: 5px;
+    padding: 5px;
+    height: min-content;
+    text-align: left;
+}
+
+.CardListTitle {
+    margin-bottom: 5px;
+}
+
+.CardListAddCard {
+    background: none;
+    text-decoration: none;
+    text-align: left;
+    color: grey;
+}
+
+.CardListAddCard {
+    background: none;
+    text-decoration: none;
+    text-align: left;
+    color: grey;
+}
+
+.CardListAddCard:hover {
+   text-decoration: underline;
+}

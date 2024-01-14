@@ -1,0 +1,20 @@
+.Board {
+    display: flex;
+    margin-top: 6px;
+    gap: 10px;
+    /*justify-content: center;*/
+}
+
+#AddListButton {
+    text-align: left;
+    background: rgba(0, 0, 0, 0.15);
+    height: 50px;
+    min-width: 256px;
+}
+
+#BoardCardLists {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 10px;
+}

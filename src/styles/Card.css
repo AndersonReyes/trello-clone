@@ -1,0 +1,19 @@
+.Card {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 1px #CBCACA;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.CardMainContent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.CardIcon:hover {
+    background-color: lightgrey;
+}
