@@ -1,4 +1,6 @@
 # Small React Concept for Trello
+<img width="1792" alt="image" src="https://github.com/AndersonReyes/trello-clone/assets/13670774/95efbd25-5224-4195-8aef-c097ec06a9a5">
+
 
 Currently, two official plugins are available:
 
